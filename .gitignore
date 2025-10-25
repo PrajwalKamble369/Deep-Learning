@@ -1,9 +1,78 @@
-# Virtual environment
-dl_tf/
-
-# Python cache
+# -----------------------
+# Python
+# -----------------------
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
 
-# Jupyter checkpoints
+# -----------------------
+# Virtual Environment
+# -----------------------
+# Any virtual environment folder
+venv/
+env/
+dl/
+dl_tf/
+.env/
+
+# -----------------------
+# Jupyter
+# -----------------------
 .ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# -----------------------
+# VS Code / IDE
+# -----------------------
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------
+# OS Files
+# -----------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------
+# Logs
+# -----------------------
+*.log
+
+# -----------------------
+# TensorFlow / ML
+# -----------------------
+*.h5
+*.ckpt
+*.ckpt.index
+*.ckpt.data-*
+saved_model/
+*.pb
+*.tflite
+
+# -----------------------
+# Misc / Optional
+# -----------------------
+*.zip
+*.tar.gz
+*.egg-info/
+*.pytest_cache/
+*.coverage
+htmlcov/
+coverage.xml
+*.pkl
+*.joblib
+
