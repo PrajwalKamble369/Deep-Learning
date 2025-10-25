@@ -1,8 +1,5 @@
-# Virtual environments
+# Virtual environment
 dl/
-dl_tf/
-venv/
-.env/
 
 # Python cache
 __pycache__/
