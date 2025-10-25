@@ -1,78 +1,53 @@
-# -----------------------
-# Python
-# -----------------------
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.pyd
-*.pdb
-*.egg
-*.egg-info/
-dist/
-build/
-.eggs/
-*.manifest
-*.spec
-
-# -----------------------
-# Virtual Environment
-# -----------------------
-# Any virtual environment folder
-venv/
-env/
+# Virtual environments
 dl/
 dl_tf/
+venv/
 .env/
 
-# -----------------------
-# Jupyter
-# -----------------------
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# -----------------------
-# VS Code / IDE
-# -----------------------
+# VSCode / IDE files
 .vscode/
 *.code-workspace
 .idea/
 *.sublime-project
 *.sublime-workspace
 
-# -----------------------
-# OS Files
-# -----------------------
+# OS files
 .DS_Store
 Thumbs.db
-desktop.ini
 
-# -----------------------
-# Logs
-# -----------------------
-*.log
-
-# -----------------------
-# TensorFlow / ML
-# -----------------------
-*.h5
-*.ckpt
-*.ckpt.index
-*.ckpt.data-*
-saved_model/
-*.pb
-*.tflite
-
-# -----------------------
-# Misc / Optional
-# -----------------------
-*.zip
-*.tar.gz
+# Python distribution / packaging
 *.egg-info/
-*.pytest_cache/
-*.coverage
-htmlcov/
-coverage.xml
-*.pkl
-*.joblib
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
 
+# PyInstaller
+*.manifest
+*.spec
+*.exe
+*.dll
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# TensorFlow / PyTorch model files (optional: if you don't want to push big models)
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Misc
+*.bak
+*.swp
+*.tmp
