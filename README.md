@@ -1,3 +1,5 @@
+[Notebook Link:](notebooks/Deep-Learning.ipynb)
+
 # Day 1 : 25/10/2025
 ***Intro to Deep Learning.***
 
