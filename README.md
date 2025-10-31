@@ -16,3 +16,13 @@
     - **How it works?**
     - **Types of MLP**
     - **Application of Multilayer Perceptron**
+
+## Day 3 : 31/10/2025
+- **Ten Step Guide To Create ANN**
+- **Building Simple Neural Network**
+    - **Data Preprocessing**
+    - **Building The Model**
+    - **Compile The Layers Into Model**
+    - **Compile The Model**
+    - **Training The Model**
+    - **Evaluating Model**
