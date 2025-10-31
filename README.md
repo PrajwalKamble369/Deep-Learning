@@ -17,7 +17,7 @@
     - **Types of MLP**
     - **Application of Multilayer Perceptron**
 
-## Day 3 : 31/10/2025
+## Day 4 : 31/10/2025
 - **Ten Step Guide To Create ANN**
 - **Building Simple Neural Network**
     - **Data Preprocessing**
