@@ -38,3 +38,30 @@
     - Interoperability with other liabraries 
 
 ---
+
+# 16/04/2026
+
+
+## <u>**Tensors in PyTorch**</u>
+- Topic Studid
+    - What are Tensors?
+    - Scalar
+    - Vector
+    - Matrices
+    - 3D Tensors
+    - 4D Tensors
+    - 5D Tensors
+    - Why are Tensors Useful?
+    - Where are Tensors used in Deep Learning?
+    - Practical with Code Example
+    - Creating a Tensor
+    - Tensor Shapes
+    - Tensor Data Types
+    - Mathematical Operations on Tensors
+    - Inplace Operations
+    - Copying a Tensor
+    - Tensor Operations on GPU
+    - Reshaping Tensors
+    - NumPy and PyTorch
+
+---
