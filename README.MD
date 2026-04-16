@@ -43,7 +43,7 @@
 
 
 ## <u>**Tensors in PyTorch**</u>
-- Topic Studid
+- Topic Studied
     - What are Tensors?
     - Scalar
     - Vector
