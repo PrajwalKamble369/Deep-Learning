@@ -65,3 +65,11 @@
     - NumPy and PyTorch
 
 ---
+
+# 17/04/2026
+
+
+## <u>**PyTorch Autograd**</u>
+- Topic Studied
+    - Why is Autograd Important?
+    - What is Autograd?
