@@ -73,3 +73,27 @@
 - Topic Studied
     - Why is Autograd Important?
     - What is Autograd?
+
+---
+
+# 24/04/2026
+
+## <u>**Pytorch Training Pipeline**</u>
+- Topic Studied
+    - Take a DataSet :
+    - Build a small neural network on it
+    - Understand Training Piepline in PyTorch through this
+    - It can be used for all nueral network
+    - In this have manual elements
+    - End Goal is understand how to build nueral network in PyTorch
+
+    - Control Flow :
+        - Load Data
+        - Basic Preprocessing
+        - Training Process
+            - Create the model (single nueron (30 input feature so 30 weights and 1 bias))
+            - Forward Pass
+            - Loss Function
+            - Backpropogation (Backward Pass)
+            - Parameter Update
+        - Model evaluation (accuracy is used)
