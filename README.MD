@@ -97,3 +97,26 @@
             - Backpropogation (Backward Pass)
             - Parameter Update
         - Model evaluation (accuracy is used)
+
+---
+
+# 27/04/2026
+
+## <u>**Pytorch 'nn' module & torch.optim module**</u>
+
+- Topics Studied:
+    - How to Improve Training Pipeline:
+        - NN Module 
+        - torch.optim module
+    - What are the improvements:
+        - not give parameters manually
+        - used built in loss function
+        - used built in activation function
+        - not update parameter manually will use torch.optim
+    - Summary:
+        - Built an nueral network using nn module
+        - Use built in activation function
+        - Use built in loss function
+        - Use built in optimizer
+
+---
