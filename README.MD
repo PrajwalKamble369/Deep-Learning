@@ -120,3 +120,35 @@
         - Use built in optimizer
 
 ---
+
+# 04/05/2026
+
+## <u>**Dataset & DataLoader Class in PyTorch**</u>
+
+- Topic Studied:
+    - Dataset & Dataloader Class
+
+- Problems
+    1) Memory inefficient due to batch gradient decent.
+    2) Not Better Convergence due to batch gradient decent.
+
+    - Solution:
+        - Using batches (mini batch gradient descent) of data to train the model.
+
+- The Dataset and Dataloader Classes
+    - Dataset and Dataloader are core abstraction in PyTorch that decouple how you define your data from how you efficiently iterate over it in training loop. This means we sperate data load and data training process.
+    - Consider we have csv data file having 10 rows and batch size is 2 so toatal batches = 10/2 = 5. 
+        - We have to create custom dataset class which inherit from `CustomDataset(Dataset)`
+    - Dataset Class:
+        - The dataset class is essentially a blueprint when you create custom dataset, you decide how data is loaded and returned.
+        - It defines:
+            - `__init__()` which tells how data should be loaded.
+            - `__len__()` which returns the total number of samples.
+            - `__getitem__(index)` which returns the data (and labels) at given index
+
+    - DataLoader Class:
+        - The DataLoader wraps a Dataset and handles batching, shuffling and parallel loading.
+    - DataLoader Control Flow:
+        - At the start of each epoch, the DataLoader (if `shuffle=True`) shuffle indices(using a sampler)
+        - It divides the indices into chunck of batch size.
+        - For each index in the chunk, data samples are fetched from the Dataset object
