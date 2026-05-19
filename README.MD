@@ -154,3 +154,5 @@
             - For each index in the chunk, data samples are fetched from the Dataset object
             - The samples are then collected and combined into a batch (using collate function)
             - The batch is returned to the main training loop
+
+---
