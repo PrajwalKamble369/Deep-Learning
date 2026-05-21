@@ -156,3 +156,19 @@
             - The batch is returned to the main training loop
 
 ---
+
+## <u>**Building a ANN using PyTorch**</u>
+
+- Topic Studied:
+
+    - ANN (Artificial Nueral Network)/ MLP (Multi Layer Perceptron)
+        - Built ANN
+        - Architecture of ANN:
+            - input layer (784 nodes)
+            - first hidden layer (128 nuerons and relu function is used)
+            - second hidden layer (64 nuerons and relu function is used)
+            - output layer (10 nuerons and softmax function is used)
+        - Workflow:
+            - DataLoader Object for training and test data.
+            - Training Loop
+            - Evaluation
