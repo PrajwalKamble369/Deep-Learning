@@ -156,6 +156,7 @@
             - The batch is returned to the main training loop
 
 ---
+# 21/05/2026
 
 ## <u>**Building a ANN using PyTorch**</u>
 
