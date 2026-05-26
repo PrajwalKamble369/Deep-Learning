@@ -173,3 +173,4 @@
             - DataLoader Object for training and test data.
             - Training Loop
             - Evaluation
+
