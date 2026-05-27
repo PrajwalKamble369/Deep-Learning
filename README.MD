@@ -174,3 +174,10 @@
             - Training Loop
             - Evaluation
 
+---
+# 27/05/2026
+## <u>**Neural Network Training on GPU**</u>
+
+- Topic Studied:
+    - Nueral Network Training on GPU
+    
