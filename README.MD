@@ -180,4 +180,8 @@
 
 - Topic Studied:
     - Nueral Network Training on GPU
+        - Check GPU Availibility
+        - Move Model to GPU
+        - Modify the Trainnig Lopp by Moving Data to GPU
+        - Modify the Evaluation loop by Moving Data to GPU
     
