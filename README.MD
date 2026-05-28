@@ -220,5 +220,9 @@
         - Data Augmentation
         - Batch Normalization
         - Early Stopping
+    - Used Solutions for this problem are:
+        - Regularization
+        - Dropout
+        - Batch Normalization
 
 [Open Optimazion of Nueral Network Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/optimizingnn.ipynb)
