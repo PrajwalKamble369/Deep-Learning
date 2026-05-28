@@ -203,4 +203,5 @@
         - Data Augmentation
         - Batch Normalization
         - Early Stopping
+        
 [Open Optimazion of Nueral Network Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/optimizingnn.ipynb)
