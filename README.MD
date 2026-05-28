@@ -26,6 +26,7 @@
 
 - PyTorch(2.x) Series
     - Optimazion in latency and throughput.
+
     
 ---
 
@@ -36,6 +37,8 @@
     - Automatic Differentiation
     - Distrubated Training
     - Interoperability with other liabraries 
+
+[Open Introduction to PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/intro_to_Pytorch.ipynb)
 
 ---
 
@@ -64,6 +67,8 @@
     - Reshaping Tensors
     - NumPy and PyTorch
 
+[Open Tensors in PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/tensors.ipynb)
+
 ---
 
 # 17/04/2026
@@ -73,6 +78,8 @@
 - Topic Studied
     - Why is Autograd Important?
     - What is Autograd?
+
+[Open PyTorch Autograd Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/pytorch_autograd.ipynb)
 
 ---
 
@@ -98,6 +105,8 @@
             - Parameter Update
         - Model evaluation (accuracy is used)
 
+[Open PyTorch Training Pipeline Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/pytorch_training_pipeline.ipynb)
+
 ---
 
 # 27/04/2026
@@ -118,6 +127,8 @@
         - Use built in activation function
         - Use built in loss function
         - Use built in optimizer
+
+[Open torch.nn & torch.optim Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/nn_module.ipynb)
 
 ---
 
@@ -155,6 +166,8 @@
             - The samples are then collected and combined into a batch (using collate function)
             - The batch is returned to the main training loop
 
+[Open Datset & DataLoader Class Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/dataset%26dataloaderclasses.ipynb)
+
 ---
 # 21/05/2026
 
@@ -174,6 +187,8 @@
             - Training Loop
             - Evaluation
 
+[Open Building ANN Using PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/ann.ipynb)
+
 ---
 # 27/05/2026
 ## <u>**Neural Network Training on GPU**</u>
@@ -184,6 +199,8 @@
         - Move Model to GPU
         - Modify the Trainnig Lopp by Moving Data to GPU
         - Modify the Evaluation loop by Moving Data to GPU
+
+[Open Nueral Network Training on GPU Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/trainingongpu.ipynb)
 
 --- 
 # 28/05/2026
@@ -203,5 +220,5 @@
         - Data Augmentation
         - Batch Normalization
         - Early Stopping
-        
+
 [Open Optimazion of Nueral Network Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/optimizingnn.ipynb)
