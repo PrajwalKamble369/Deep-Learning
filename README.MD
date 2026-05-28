@@ -224,5 +224,9 @@
         - Regularization
         - Dropout
         - Batch Normalization
+    - Accuracies after using Regulaization, Dropout,Bactch Normalization
+        - Accuracy on Test Data = 0.8933333333333333
+        - Accuracy on Train Data = 0.9483958333333333
+        - 0.9483958333333333 - 0.8933333333333333 = 0.055062500000000014
 
 [Open Optimazion of Nueral Network Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/optimizingnn.ipynb)
