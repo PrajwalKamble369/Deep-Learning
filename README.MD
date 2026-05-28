@@ -189,3 +189,18 @@
 # 28/05/2026
 
 ## <u>**Optimizing The Nueral Network**</u>
+
+- Topic Studied:
+    - Problem:
+        - Accuracy on Test Data = 0.8895
+        - Accuracy on Train Data = 0.9778541666666667
+        - This is Overfitting and this is not good
+    - Solutions:
+        - Adding more data
+        - Reducing the complexity of nueral network architecture
+        - Regularization
+        - Dropouts
+        - Data Augmentation
+        - Batch Normalization
+        - Early Stopping
+
