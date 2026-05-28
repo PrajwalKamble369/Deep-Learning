@@ -184,4 +184,8 @@
         - Move Model to GPU
         - Modify the Trainnig Lopp by Moving Data to GPU
         - Modify the Evaluation loop by Moving Data to GPU
-    
+
+--- 
+# 28/05/2026
+
+## <u>**Optimizing The Nueral Network**</u>
