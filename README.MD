@@ -179,9 +179,9 @@
         - Built ANN
         - Architecture of ANN:
             - input layer (784 nodes)
-            - first hidden layer (128 nuerons and relu function is used)
-            - second hidden layer (64 nuerons and relu function is used)
-            - output layer (10 nuerons and softmax function is used)
+            - first hidden layer (128 neurons and relu function is used)
+            - second hidden layer (64 neurons and relu function is used)
+            - output layer (10 neurons and softmax function is used)
         - Workflow:
             - DataLoader Object for training and test data.
             - Training Loop
@@ -230,3 +230,18 @@
         - 0.9483958333333333 - 0.8933333333333333 = 0.055062500000000014
 
 [Open Optimazion of Nueral Network Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/optimizingnn.ipynb)
+
+--- 
+# 29/05/2026
+
+## <u>**Hyperparameter Tuning the ANN using Optuna**</u>
+- Topic Studied:
+    - Hyperparmeter Tuning on Parameters:
+        1) Number of Hidden Layers
+        2) Neurons Per Layer
+        3) Number of Epochs
+        4) Optimizer
+        5) Learning Rate
+        6) Batch Size
+        7) Dropout Rate
+        8) Weight Decay (lambda)
