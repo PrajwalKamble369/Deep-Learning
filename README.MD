@@ -245,5 +245,16 @@
         6) Batch Size
         7) Dropout Rate
         8) Weight Decay (lambda)
+    
+    - Use of optuna
+    1) create objective function
+        - `def objective()`
+        - search space
+        - model init
+        - parameters init
+        - training loop
+        - evaluation loop
+    2) Study Object
+        - Trail
 
 [Open Hyperparameter Tuning Using Optuna Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/hyperparametertuning.ipynb)
