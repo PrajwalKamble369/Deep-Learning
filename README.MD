@@ -245,3 +245,5 @@
         6) Batch Size
         7) Dropout Rate
         8) Weight Decay (lambda)
+
+[Open Hyperparameter Tuning Using Optuna Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/hyperparametertuning.ipynb)
