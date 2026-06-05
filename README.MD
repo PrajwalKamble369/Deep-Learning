@@ -258,3 +258,13 @@
         - Trail
 
 [Open Hyperparameter Tuning Using Optuna Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/hyperparametertuning.ipynb)
+
+
+--- 
+# 05/06/2026
+
+## <u>**Building CNN Using PyTorch**</u>
+- Topic Studied:
+    - What is CNN?
+    - CNN Architecture
+    
