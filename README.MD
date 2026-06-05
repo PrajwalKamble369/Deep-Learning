@@ -267,4 +267,5 @@
 - Topic Studied:
     - What is CNN?
     - CNN Architecture
-    
+
+[Open CNN with PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/cnn_pytorch.ipynb)
