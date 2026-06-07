@@ -269,3 +269,14 @@
     - CNN Architecture
 
 [Open CNN with PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/cnn_pytorch.ipynb)
+
+---
+# 07/06/2026
+
+## <u>**Transfer Learning using PyTorch**</u>
+- Topic Studied:
+    - What is Transfer Learning
+    - Why does Transfer learning work?
+    - Workflow
+
+[Open Transfer Learning Using PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/transfer_learning.ipynb)
