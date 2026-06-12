@@ -280,3 +280,11 @@
     - Workflow
 
 [Open Transfer Learning Using PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/transfer_learning.ipynb)
+
+---
+# 12/06/2026
+
+## <u>**RNN using PyTorch**</u>
+- Topic Studied:
+
+[Open RNN Using PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/rnn_pytorch.ipynb)
