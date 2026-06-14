@@ -286,5 +286,7 @@
 
 ## <u>**RNN using PyTorch**</u>
 - Topic Studied:
+    - RNN Architecure
+    - RNN implementation
 
 [Open RNN Using PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/rnn_pytorch.ipynb)
