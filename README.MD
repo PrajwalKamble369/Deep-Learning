@@ -297,5 +297,12 @@
 ## <u>**Next Word Predictor using Pytorch LSTM using PyTorch**</u>
 
 - Topic Studied:
+    - Language Modeling:
+        - Language modeling is the task of predicting the next word(or character) in a sequence based on context of previous words.
+        - Creating Unsupervised Taks to Supervised Task
+        - Forming a Vocabalary (dictionary)
+        - Replacing word with numbers using vocabalary
+        - Converting to embeding
+        - Give embeding to LSTM
 
 [Open LSTM Using PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/lstm.ipynb)
