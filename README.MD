@@ -290,3 +290,10 @@
     - RNN implementation
 
 [Open RNN Using PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/rnn_pytorch.ipynb)
+
+---
+# 19/06/2026
+
+## <u>**Next Word Predictor using Pytorch LSTM using PyTorch**</u>
+
+- Topic Studied:
