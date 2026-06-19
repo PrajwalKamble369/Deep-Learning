@@ -297,3 +297,5 @@
 ## <u>**Next Word Predictor using Pytorch LSTM using PyTorch**</u>
 
 - Topic Studied:
+
+[Open LSTM Using PyTorch Notebook](https://github.com/PrajwalKamble369/Deep-Learning/blob/main/lstm.ipynb)
